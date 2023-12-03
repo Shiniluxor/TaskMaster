@@ -7,7 +7,7 @@
  ```bash
  
  git clone https://github.com/Shiniluxor/TaskMaster.git
- cd Barber
+ cd TaskMaster
  npm install
  npm install react-magic-motion react-toastify -E
  npm install -D tailwindcss postcss autoprefixer
