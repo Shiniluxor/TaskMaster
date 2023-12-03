@@ -1,8 +1,11 @@
 # Task Master app
 
-## Aplicación sencilla con RactJs, tailwindcss. 
+## Aplicación sencilla con ReactJs, tailwindcss. 
 
-### Algo
+### Descipcion
+
+Es una palicación sencilla con ReactJs, tailwindcss. Se utilizo Vite para inicializar dicha app.
+
 
 
 
