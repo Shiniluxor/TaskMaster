@@ -2,9 +2,9 @@
 
 ## Aplicación sencilla con ReactJs, tailwindcss. 
 
-### Descipcion
+### Descipción
 
-Es una palicación sencilla con ReactJs, tailwindcss. Se utilizo Vite para inicializar dicha app.
+Es una paplicación sencilla con ReactJs, tailwindcss. Se utilizo Vite para inicializar dicha app.
 
 
 
