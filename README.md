@@ -6,9 +6,12 @@
 
  ```bash
  
- git https://github.com/Shiniluxor/TaskMaster.git
+ git clone https://github.com/Shiniluxor/TaskMaster.git
  cd Barber
  npm install
+ npm install react-magic-motion react-toastify -E
+ npm install -D tailwindcss postcss autoprefixer
+ npx tailwindcss init -p
  npm run dev
 
  ```
